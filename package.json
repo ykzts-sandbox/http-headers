@@ -1,0 +1,9 @@
+{
+  "description": "aaaa",
+  "private": true,
+  "name": "http-headers",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "version": "1.0.0"
+}
